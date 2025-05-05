@@ -43,9 +43,9 @@
       <version>3.3.2</version>
     </plugin>
   </plugins>
-</build>
+
 	</dependencies>
-	
+</build>	
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
