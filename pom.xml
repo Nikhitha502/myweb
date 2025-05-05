@@ -22,7 +22,7 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		
+	</dependencies>
 <build>
   <plugins>
     <!-- Compiler plugin -->
@@ -43,9 +43,7 @@
       <version>3.3.2</version>
     </plugin>
   </plugins>
-
-	</dependencies>
-</build>	
+</build>
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
